@@ -1,4 +1,4 @@
-# Introduction to Scientific Computation (MATH2019) - Courseworks
+# Introduction to Scientific Computation
 
 ## Course Overview
 
